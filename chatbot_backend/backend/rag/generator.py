@@ -21,7 +21,7 @@
 
 #     # LLM initialization
 #     llm = ChatGroq(
-#         # api_key="sample",
+#         
 #         # model="llama-3.3-70b-versatile",
 #         temperature=0.2,
 #     )
