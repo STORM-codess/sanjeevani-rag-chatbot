@@ -1,0 +1,153 @@
+What is Sanjeevani?
+
+Sanjeevani is a government-backed system that makes Ayurvedic herbs transparent and trustworthy.
+Consumers can scan QR codes on products to check where the herbs came from, how they were grown, and what quality tests they passed.
+
+How does Sanjeevani help me as a consumer?
+
+• You can verify if a product is genuine
+• You can see where the herbs were grown
+• Check lab test results for safety
+• Ensure there is no adulteration
+• Feel confident about what you are buying
+
+How do I check if a product is authentic?
+
+Look for a QR code on the product label.
+Scan it using your mobile camera.
+
+You will see:
+• Herb source (farm details)
+• Batch journey
+• Test results
+• Certification status
+
+If information is missing → the product may not be genuine.
+
+What does the QR code show?
+
+The QR code provides:
+• Farmer details (as permitted)
+• Farm location
+• Herb quality test reports
+• Batch ID and history
+• Processing and packaging steps
+
+It is like the “story” of your product.
+
+What if the QR code does not work?
+
+If the QR code does not scan:
+• Check your internet connection
+• Try scanning in better light
+• Restart your camera
+
+If still not working → raise a complaint through the Sanjeevani platform.
+
+How do I know if an Ayurvedic herb is good quality?
+
+General signs of good quality herbs:
+• Natural smell
+• Clean and free from dust or fungus
+• Not too old or discolored
+• Dry but not brittle
+• No artificial colors
+
+Each herb has its own characteristics, but these rules apply to most.
+
+Are Ayurvedic products safe to use?
+
+Yes, if purchased from trusted brands that follow Sanjeevani traceability and testing.
+
+Safety tips:
+• Always check the QR code
+• Read ingredients
+• Follow recommended dosage
+• Avoid expired products
+
+Consult a doctor if you have medical conditions.
+
+What if I find something suspicious in a product?
+
+You can immediately raise a complaint on the Sanjeevani platform.
+
+Consumers can report:
+• Fake or duplicate products
+• Wrong QR code information
+• Mismatch in batch details
+• Poor quality or contamination
+
+A complaint ID will be given so you can track the action taken.
+
+Can I trust the herb information shown in the QR code?
+
+Yes.
+The data is recorded using blockchain technology, which means once details are entered, they cannot be changed or faked.
+
+This ensures authenticity for consumers.
+
+Do I need to make an account to use Sanjeevani?
+
+No.
+You can scan QR codes and view product details without creating an account.
+
+What type of Ayurvedic products support Sanjeevani traceability?
+
+Products that have QR-based traceability, such as:
+• Herbal powders
+• Tablets and capsules
+• Oils
+• Churnas
+• Ready-to-use herbal products
+
+More product categories are being added gradually.
+
+Can I check herb benefits using Sanjeevani?
+
+Yes.
+Scanning the QR code or asking the Sanjeevani chatbot can give information about:
+• Herb uses
+• Health benefits
+• Safety
+• How it is grown
+• How to identify good quality
+
+What should I do if the product information is missing?
+
+You can:
+• Try scanning again
+• Contact customer support
+• Raise a complaint with screenshots
+
+Missing information may indicate a non-registered or unsafe product.
+
+Can I compare different herb batches?
+
+Yes.
+Each batch has:
+• Its own batch ID
+• Quality score
+• Farm details
+• Harvest date
+
+You can compare batches to choose the best quality.
+
+Is Sanjeevani available for all Ayurvedic brands?
+
+Not yet.
+It is currently available only for participating manufacturers.
+The list is growing as more companies join.
+
+Does Sanjeevani store my personal details?
+
+No.
+Consumers do not need to provide any personal information to scan QR codes or check product authenticity.
+
+What if I need help or cannot understand the information?
+
+You can:
+• Ask the Sanjeevani chatbot
+• Read help articles on the platform
+• Raise a complaint for support
+
+The platform is designed to be simple and consumer-friendly.

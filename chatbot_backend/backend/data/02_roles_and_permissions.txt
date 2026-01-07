@@ -1,0 +1,116 @@
+USER ROLES AND PERMISSIONS
+
+The system supports multiple roles. Each role sees different screens on the website and has different permissions in the backend.
+
+MAIN ROLES
+
+1. Admin
+2. Herb Producer / Farmer (if applicable)
+3. Manufacturer
+4. Lab / Quality Verifier
+5. Transporter / Logistics
+6. General User / Viewer (optional, depending on implementation)
+
+1. ADMIN
+
+- Full access to the system.
+- Can create and manage user accounts:
+  - Assign roles (admin, lab, manufacturer, etc.).
+  - Activate/deactivate users.
+- Can view all records across all schemas:
+  - Herbs, manufacture entries, lab tests, processes, transport logs.
+- Can view complete blockchain:
+  - List of all blocks.
+  - Details of transactions in each block.
+  - Validation status of the chain.
+- Can monitor suspicious activities or inconsistencies (if fraud logic is implemented).
+- Can configure some high-level settings (if applicable) like threshold for alerts, allowed statuses, etc.
+
+2. HERB PRODUCER / FARMER (IF PRESENT IN PROJECT)
+
+- Registers new herb/raw-material lots in the system.
+- Enters details like:
+  - Herb name.
+  - Location / region.
+  - Harvest date.
+  - Quantity.
+  - Basic quality parameters (moisture estimate, drying method).
+- May upload basic documents (if enabled) like certification of organic farming, etc.
+- Can track where their lot is going (if UI supports this).
+
+3. MANUFACTURER
+
+- Creates manufacturing batches using herbs or intermediate products.
+- Uses `manufactureSchema` via backend routes to:
+  - Register new batch: assign batch ID, select herb lot(s), define product type.
+  - Record manufacturing steps at a high level (e.g., mixing, grinding, extraction).
+- Can link the manufacturing batch to:
+  - Source herb lots.
+  - Process records (more detailed step-by-step).
+  - Lab test requests and results.
+- Can generate QR codes (in frontend/backend) to tag batches or final products.
+- Can view history of a batch including herb sources, lab tests, and transport logs.
+
+4. LAB / QUALITY VERIFIER
+
+- Uses `labSchema` for storing test records.
+- Receives batch samples for testing.
+- Performs tests such as:
+  - Purity.
+  - Moisture content.
+  - Contaminants (if applicable).
+  - Active ingredient percentage (for herbal extracts).
+- Enters:
+  - Test results.
+  - Status of batch: e.g., "Verified / Passed", "Failed", "Conditional", "Pending".
+  - Test date, lab name, authorized person.
+- Can update remarks or reasons for failure.
+- Their actions may trigger new blockchain blocks recording the lab test event.
+
+5. TRANSPORTER / LOGISTICS
+
+- Uses `transportSchema` to log movement of batches.
+- Enters:
+  - Origin location.
+  - Destination location.
+  - Dispatch date and time.
+  - Arrival date and time.
+  - Vehicle or transport ID.
+  - Any special conditions (cold chain, sealed packaging, etc.).
+- Their entries make it possible to reconstruct the movement path of any batch.
+- Transport records can also be hashed and stored in blockchain for tamper-proof history.
+
+6. GENERAL USER / VIEWER
+
+- Optional role with read-only access.
+- Can scan a QR code and see:
+  - Which herb/herbs it came from.
+  - Where it was processed.
+  - What lab tests were performed.
+  - Whether blockchain validation is successful (basic info).
+- Cannot modify any records.
+
+ROLE-BASED UI
+
+The frontend shows different navigation and components based on role:
+- Admin dashboard: counts, charts, full data access.
+- Manufacturer dashboard: their batches, their requests, status of lab tests.
+- Lab dashboard: pending samples, completed tests.
+- Transport dashboard: current transports, history.
+- Each role sees only relevant routes when they log in.
+
+ROLE-BASED API ACCESS
+
+`UserRoutes.js` typically includes:
+- Signup/login endpoints.
+- Middleware for role-based authorization.
+- For example:
+  - Only Admin can hit "create user" endpoint.
+  - Only Lab role can post to "add lab test" route.
+  - Only Transporter can post to "add transport log" route.
+
+The RAG chatbot should understand:
+- Who each role is.
+- What they are supposed to do.
+- What data they work with.
+- Which user would see which parts of the site.

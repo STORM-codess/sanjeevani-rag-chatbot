@@ -1,0 +1,52 @@
+Sanjeevani Farmer Registration Help Guide
+The Sanjeevani platform enables farmers to register themselves, access government-backed herbal cultivation schemes, receive incentives, and participate in the blockchain-based traceability system. Registration is designed to be simple, transparent, and accessible for all farmers, including women farmers and small-scale cultivators.
+Who Can Register on Sanjeevani?
+Farmers who meet any of the following criteria can register:
+
+• Individuals cultivating Ayurvedic or medicinal herbs
+• Members of Farmer Producer Organisations (FPOs)
+• Women farmers leading or managing herbal cultivation
+• Herbal cluster farmers
+• Organic or sustainable farming practitioners
+• Farmers participating in government-supported herbal programs
+
+Why Should Farmers Register?
+
+Registration allows farmers to:
+
+• Access government schemes and incentives
+• Receive higher payments for certified, quality herbs
+• Get unique batch IDs for herb traceability
+• Create a digital identity for market visibility
+• Participate in QR-based supply chain verification
+• Access training and support programs
+• Track lab test reports and batch status online
+
+How to Register on Sanjeevani (Step-by-Step)
+Step 1: Visit the Sanjeevani portal homepage.
+Step 2: Click the Register as Farmer button.
+Step 3: Enter your basic details:
+
+Full Name
+Phone Number
+Address
+Aadhaar Number
+Gender (special benefits for women farmers)
+
+After submission:
+✔ Your farmer profile is created
+✔ You receive a confirmation SMS or email
+✔ You can now log in to access your dashboard
+
+Farmer Dashboard Overview
+
+Once logged in, farmers can:
+
+• View their registered farm details
+• Register new herb batches
+• Download QR codes for traceability
+• Track lab testing status
+• View accepted/rejected batch history
+• Check incentives and payments
+• Access training materials and support
+• Raise complaints if needed

@@ -1,0 +1,21 @@
+# ---------- Backend (FastAPI) ----------
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# ---------- RAG & LLM ----------
+langchain==0.0.353
+langchain-community==0.0.28
+langchain-groq==0.0.1
+
+
+# ---------- Embeddings & Vector DB ----------
+sentence-transformers
+faiss-cpu
+
+# ---------- Data & Utilities ----------
+requests
+
+# ---------- Frontend (Streamlit) ----------
+streamlit

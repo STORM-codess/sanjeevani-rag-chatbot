@@ -1,0 +1,174 @@
+Sanjeevani – Complaint Support & Help Guide
+
+The Sanjeevani platform provides a simple and transparent system for raising and tracking complaints related to agricultural schemes, herb traceability, platform issues, and incentives. Any farmer, consumer, or stakeholder can raise a complaint directly from the portal.
+
+What is the “Raise a Complaint” Feature?
+
+The "Raise a Complaint" button on the home page allows users to report issues they face while using the Sanjeevani platform. Once submitted, the system generates a unique Complaint ID. This ID helps users track the progress and resolution of their issue.
+
+Who Can Raise a Complaint?
+
+Farmers
+
+Women Farmers
+
+Consumers
+
+Ayurvedic Companies
+
+Government Officials
+
+Any user facing portal-related issues
+
+Common Issues You Can Report
+
+Farmers may raise complaints about:
+
+Payment delays or missing incentives
+
+Incorrect eligibility status for schemes
+
+Wrong batch mapping
+
+QR code generation issues
+
+Errors in lab report visibility
+
+Trouble logging in or registering
+
+Problems with uploading documents
+
+Incorrect personal or farm details not updating
+
+Consumers may complain about:
+
+QR code not scanning
+
+Missing or incorrect herb journey information
+
+Authenticity concerns
+
+Incomplete batch details
+
+Companies may complain about:
+
+Incorrect supplier batch data
+
+Missing certifications
+
+Platform accessibility issues
+
+Other general complaints:
+
+Website not loading
+
+Server issues
+
+Unexpected errors
+
+Information not updating
+
+How to Raise a Complaint (Step-by-Step)
+
+Step 1: Click “Raise a Complaint” on the homepage.
+
+Step 2: Select your user type:
+
+Farmer
+
+Consumer
+
+Company
+
+Government / Admin
+
+Step 3: Fill in the details:
+
+Name
+
+Contact number or email
+
+Complaint category
+
+Description of the issue
+
+Batch ID (if applicable)
+
+Upload supporting documents (optional)
+
+Step 4: Submit the complaint.
+
+Step 5: Receive a system-generated Complaint ID.
+This ID can be used to track your complaint status.
+
+Tracking Your Complaint
+
+After submitting a complaint, users can track updates using:
+
+Complaint Tracking portal
+
+SMS notifications (if enabled)
+
+Email alerts (if provided)
+
+Complaint statuses include:
+
+Submitted
+
+Under Review
+
+Forwarded to Department
+
+Action in Progress
+
+Resolved
+
+Closed
+
+Expected Resolution Time
+
+Most complaints are resolved within:
+
+24–72 hours for platform-related issues
+
+3–7 days for administrative or incentive issues
+
+7–14 days for batch, QR, and laboratory-related disputes
+
+Important Guidelines for Submitting Complaints
+
+Provide accurate batch ID (if applicable).
+
+Add clear details to help faster resolution.
+
+Attach screenshots or proof for complex issues.
+
+Use the same phone number or email for tracking.
+
+Do not submit duplicate complaints for the same issue.
+
+Support Channels
+
+Users can also contact Sanjeevani support through:
+
+Portal helpdesk
+
+Helpline number (if provided by gov. department)
+
+Email support team
+
+Local agricultural officer or field coordinator
+
+Why Complaint Support Matters
+
+The goal of Sanjeevani’s complaint system is to:
+
+Ensure transparency
+
+Resolve farmer and consumer issues quickly
+
+Improve trust in the traceability platform
+
+Provide accountability across the herbal value chain
+
+Support fair practices and improve user experience
