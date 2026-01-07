@@ -21,8 +21,8 @@ def get_rag_qa():
 
     # LLM initialization
     llm = ChatGroq(
-        # api_key="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",
-        model="llama-3.3-70b-versatile",
+        # api_key="sample",
+        # model="llama-3.3-70b-versatile",
         temperature=0.2,
     )
 

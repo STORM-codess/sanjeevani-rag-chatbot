@@ -21,7 +21,7 @@ def get_retriever():
 
     # IMPORTANT: Must match ingest.py EXACTLY
     embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+        # model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
     )
 
     print("📦 Loading FAISS Vector Store from:", VECTOR_PATH)

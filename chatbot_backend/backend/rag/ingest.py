@@ -46,7 +46,7 @@ def build_vector_store():
 # Create embeddings using HuggingFace (FREE + FAST)
     print("🧠 Generating embeddings using MULTILINGUAL Sentence Transformers...")
     embeddings = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+    # model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 )
 
 
