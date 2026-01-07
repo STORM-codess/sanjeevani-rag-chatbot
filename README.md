@@ -57,14 +57,3 @@ FastAPI
 Python
 
 RAG pipeline (LLM + Vector Retrieval)
-
-## 📸 Project Screenshots
-
-### 💬 Chat Interface
-(screenshot/Screenshot 2026-01-07 184029.png)
-(screenshot/Screenshot 2026-01-07 184101.png)
-
-
-Session-based memory
-
-CORS enabled for frontend integration
