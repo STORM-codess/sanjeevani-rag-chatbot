@@ -124,54 +124,7 @@ This project demonstrates:
 
 ✅ User-first product thinking
 
-🧠 Why This Project Stands Out for Hackathons (HackByte Criteria)
-📌 Project Experience
 
-Solves a real societal and agricultural problem
-
-Beyond demo-level — designed for actual deployment
-
-📌 Technical Skills
-
-RAG architecture
-
-LLM integration
-
-FastAPI backend
-
-Modern frontend with React + Tailwind
-
-📌 Code Quality & Documentation
-
-Modular structure
-
-Clear separation of concerns
-
-Professional README explaining intent and design
-
-📌 Learning & Growth
-
-Applied advanced AI concepts (RAG, embeddings, session memory)
-
-Explored blockchain-inspired traceability models
-
-📌 Collaboration Ready
-
-Clean repo structure for team contributions
-
-Easy onboarding for new collaborators
-
-Designed to scale with multiple contributors
-
-🔮 Future Enhancements
-
-Multilingual RAG (full Hindi document support)
-
-Role-based dashboards (Farmer, Inspector, Buyer)
-
-Actual blockchain integration for batch verification
-
-Analytics dashboard for usage insights
 
 📜 License
 
@@ -182,6 +135,3 @@ Reuse or extension requires permission from the author.
 
 This project is intended to represent production-level thinking, not just a hackathon prototype.
 It reflects the ability to design, build, document, and ship meaningful software.
-LLM generates a grounded response
-
-Session memory maintains conversation context
